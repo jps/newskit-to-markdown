@@ -1,0 +1,13 @@
+{
+  "name": "newskit-to-markdown",
+  "version": "1.0.0",
+  "description": "crawls newskit site and converts to markdown",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "axios": "^1.3.4",
+    "cheerio": "^1.0.0-rc.12",
+    "fs-extra": "^11.1.1",
+    "turndown": "^7.1.2"
+  }
+}
